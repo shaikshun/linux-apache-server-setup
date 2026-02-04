@@ -1,0 +1,45 @@
+# Linux Apache Web Server Setup Project
+
+## 📌 Overview
+This project demonstrates installation and configuration of Apache web server on Linux.
+
+---
+
+## 🎯 Objectives
+- Install Apache server
+- Start and enable service
+- Create custom web page
+- Configure firewall rules
+- Test web access
+
+---
+
+## 🧰 Commands Used
+- dnf install httpd / apt install apache2
+- systemctl start httpd
+- systemctl enable httpd
+- firewall-cmd
+- systemctl status
+
+---
+
+## ⚙️ Tasks Performed
+- Installed Apache web server
+- Created index.html test page
+- Opened port 80 in firewall
+- Verified server from browser
+
+---
+
+## 💻 Environment
+- RHEL / Ubuntu Linux
+- VMware
+
+---
+
+## ✅ Skills Demonstrated
+- Server Deployment
+- Service Management
+- Firewall Configuration
+
+
